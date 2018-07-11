@@ -1,3 +1,6 @@
-'huangbin' 
-'llllllllllhuangbin' 
+<<<<<<< HEAD
+=======
+'huangbinhuangbin' 
+'llllllllll' 
 'ssssssss'
+>>>>>>> huang
